@@ -1,0 +1,13 @@
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\bin\Debug\netcoreapp3.1\SecondConsoleApplication.exe
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\bin\Debug\netcoreapp3.1\SecondConsoleApplication.deps.json
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\bin\Debug\netcoreapp3.1\SecondConsoleApplication.runtimeconfig.json
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\bin\Debug\netcoreapp3.1\SecondConsoleApplication.runtimeconfig.dev.json
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\bin\Debug\netcoreapp3.1\SecondConsoleApplication.dll
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\bin\Debug\netcoreapp3.1\SecondConsoleApplication.pdb
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\obj\Debug\netcoreapp3.1\SecondConsoleApplication.csprojAssemblyReference.cache
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\obj\Debug\netcoreapp3.1\SecondConsoleApplication.AssemblyInfoInputs.cache
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\obj\Debug\netcoreapp3.1\SecondConsoleApplication.AssemblyInfo.cs
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\obj\Debug\netcoreapp3.1\SecondConsoleApplication.csproj.CoreCompileInputs.cache
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\obj\Debug\netcoreapp3.1\SecondConsoleApplication.dll
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\obj\Debug\netcoreapp3.1\SecondConsoleApplication.pdb
+E:\projects\Employees\SecondConsoleApplication\SecondConsoleApplication\obj\Debug\netcoreapp3.1\SecondConsoleApplication.genruntimeconfig.cache
