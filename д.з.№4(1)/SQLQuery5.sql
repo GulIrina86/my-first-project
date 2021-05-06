@@ -1,0 +1,1 @@
+SELECT SUM (ExtendedPrice) AS ITOG FROM [WideWorldImporters].[Sales].[InvoiceLines];
