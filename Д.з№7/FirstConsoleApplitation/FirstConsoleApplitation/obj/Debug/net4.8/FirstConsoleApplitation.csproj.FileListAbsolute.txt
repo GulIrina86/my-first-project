@@ -1,0 +1,16 @@
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\net4.8\FirstConsoleApplitation.csprojAssemblyReference.cache
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\net4.8\FirstConsoleApplitation.AssemblyInfoInputs.cache
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\net4.8\FirstConsoleApplitation.AssemblyInfo.cs
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\net4.8\FirstConsoleApplitation.csproj.CoreCompileInputs.cache
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\NUnit3.TestAdapter.dll
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\NUnit3.TestAdapter.pdb
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\nunit.engine.dll
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\nunit.engine.api.dll
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\nunit.engine.core.dll
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\FirstConsoleApplitation.exe.config
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\FirstConsoleApplitation.exe
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\FirstConsoleApplitation.pdb
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\net4.8\nunit.framework.dll
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\net4.8\FirstConsoleApplitation.csproj.CopyComplete
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\net4.8\FirstConsoleApplitation.exe
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\net4.8\FirstConsoleApplitation.pdb

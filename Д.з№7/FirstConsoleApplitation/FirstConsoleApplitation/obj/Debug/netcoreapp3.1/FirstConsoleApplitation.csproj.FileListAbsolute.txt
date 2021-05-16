@@ -1,0 +1,15 @@
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\netcoreapp3.1\FirstConsoleApplitation.exe
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\netcoreapp3.1\FirstConsoleApplitation.deps.json
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\netcoreapp3.1\FirstConsoleApplitation.runtimeconfig.json
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\netcoreapp3.1\FirstConsoleApplitation.runtimeconfig.dev.json
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\netcoreapp3.1\FirstConsoleApplitation.dll
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\netcoreapp3.1\FirstConsoleApplitation.pdb
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\netcoreapp3.1\FirstConsoleApplitation.csprojAssemblyReference.cache
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\netcoreapp3.1\FirstConsoleApplitation.AssemblyInfoInputs.cache
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\netcoreapp3.1\FirstConsoleApplitation.AssemblyInfo.cs
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\netcoreapp3.1\FirstConsoleApplitation.csproj.CoreCompileInputs.cache
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\netcoreapp3.1\FirstConsoleApplitation.dll
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\netcoreapp3.1\FirstConsoleApplitation.pdb
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\netcoreapp3.1\FirstConsoleApplitation.genruntimeconfig.cache
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\projects\QA1\FirstConsoleApplitation\FirstConsoleApplitation\obj\Debug\netcoreapp3.1\FirstConsoleApplitation.csproj.CopyComplete
